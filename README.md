@@ -1,2 +1,2 @@
 # verus_scripts
-Verus python scripts i use
+run in the same folder as verus.exe
